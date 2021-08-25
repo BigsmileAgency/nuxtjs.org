@@ -255,7 +255,7 @@ Si nous voulons en savoir plus sur `RouterLink`, se référer à la [documentati
 
 <base-alert type="info">
 
-`<NuxtLink>` est utilise le [préfétching intelligent](/docs/2.x/features/nuxt-components#the-nuxtlink-component) par défaut.
+`<NuxtLink>` utilise le [préfétching intelligent](/docs/2.x/features/nuxt-components#the-nuxtlink-component) par défaut.
 
 </base-alert>
 
